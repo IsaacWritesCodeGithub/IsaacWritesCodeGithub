@@ -1,4 +1,4 @@
-![YouTube Channel Art 2560x1440 px (1)](https://user-images.githubusercontent.com/104407881/165219342-c68c727e-37ca-4483-913a-bb0e75751ac3.png)
+![YouTube Channel Art 2560x1440 px (4)](https://user-images.githubusercontent.com/104407881/165221293-d76c4a3f-c3a7-48c2-9917-0736a0e205d8.jpeg)
 
 
 
@@ -19,4 +19,4 @@ You can find me on [instagram](https://www.instagram.com/techwithisaac/?hl=en) o
 IsaacWritesCodeGithub/IsaacWritesCodeGithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+
