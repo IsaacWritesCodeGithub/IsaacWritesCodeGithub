@@ -1,4 +1,5 @@
-![YouTube Channel Art 2560x1440 px (2)](https://user-images.githubusercontent.com/104407881/165218323-396d7a3a-36fe-4cf5-804a-f26756bc0a1e.jpeg)
+![YouTube Channel Art 2560x1440 px (1)](https://user-images.githubusercontent.com/104407881/165219020-c28a8f49-0f23-42ed-aff8-44eb76c8c2f5.png)
+
 
 # 👋 Hello, folks! 
 ## 📝 About me
