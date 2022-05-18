@@ -11,10 +11,7 @@ I work on all sorts of different open-source projects and specialize mostly in p
 You can find me on [instagram](https://www.instagram.com/techwithisaac/?hl=en) or [twitter](https://twitter.com/bluewritescode)
 
 
-# 📈 Github Stats
 
-[![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacwritescodegithub&show_icons=true&theme=cobalt)]
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacWritesCodeGithub)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 IsaacWritesCodeGithub/IsaacWritesCodeGithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
