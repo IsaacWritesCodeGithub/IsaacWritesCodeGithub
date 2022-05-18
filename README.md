@@ -15,6 +15,8 @@ You can find me on [instagram](https://www.instagram.com/techwithisaac/?hl=en) o
 
 [![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacwritescodegithub&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacWritesCode)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 IsaacWritesCodeGithub/IsaacWritesCodeGithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
