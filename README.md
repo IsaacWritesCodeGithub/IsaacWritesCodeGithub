@@ -1,4 +1,5 @@
 # 👋 Hello, folks! 
+![YouTube Channel Art 2560x1440 px (4)](https://user-images.githubusercontent.com/104407881/165221293-d76c4a3f-c3a7-48c2-9917-0736a0e205d8.jpeg)
 
 ## 📝 About me
 My name is Isaac and I'm a software developer who is from the US. 
