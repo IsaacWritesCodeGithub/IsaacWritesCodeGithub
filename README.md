@@ -3,8 +3,8 @@
 
 ## 📝 About me
 My name is Isaac and I'm a software developer who is from the US. 
-I work on all sorts of different open-source projects and specialize mostly in python. However I also work in C#, go, and javascript.
-I work on all sorts of different open-source projects and specialize mostly in python; however, I also work in C#, go, and javascript.
+
+And I like python...just a bit
 
 # 📍 Where to find me 
 You can find me on [instagram](https://www.instagram.com/techwithisaac/?hl=en) or [twitter](https://twitter.com/bluewritescode)
