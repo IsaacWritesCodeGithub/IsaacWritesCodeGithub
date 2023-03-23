@@ -7,7 +7,7 @@ My name is Isaac and I'm a software developer from the US.
 And I like python...just a bit
 
 # 📍 Where to find me 
-You can find me on [instagram](https://www.instagram.com/techwithisaac/?hl=en) or [twitter](https://twitter.com/bluewritescode)
+You can find me on [instagram](https://www.instagram.com/techwithisaac/?hl=en) or [twitter](https://twitter.com/lsaacWritesCode)
 # 📈 Github Stats
 [![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacwritescodegithub&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 <!---
